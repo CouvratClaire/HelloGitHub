@@ -6,6 +6,7 @@ public class Groupe2 {
 		System.out.println("AgatheChevalier est Agathe Chevalier");
 		System.out.println("alexandrebigotcacao est Alexandre Bigot");
 		System.out.println("rombernard est Romain Bernard");
+		System.out.println("GuillaumeSa est Guillaume Sallé");
 	}
 	
 	public static void main(String[] args) {
