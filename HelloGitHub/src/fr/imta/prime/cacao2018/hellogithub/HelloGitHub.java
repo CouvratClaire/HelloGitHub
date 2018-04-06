@@ -4,7 +4,8 @@ public class HelloGitHub {
 	
 	public static void printer() {
 		System.out.println("GuillaumeSa est Guillaume Sallé");
-		System.out.println("alexandrebigotcacao est Alexandre Bigot")
+		System.out.println("alexandrebigotcacao est Alexandre Bigot");
+		System.out.println("AgatheChevalier est Agathe Chevalier");
 	}
 	
 	public static void main(String[] args) {
