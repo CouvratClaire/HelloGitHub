@@ -6,6 +6,7 @@ public class Groupe4 {
 		System.out.println("norigolepas est Noémie Rigaut");
 		System.out.println("carlivoix est Charles Vivoix");
 		System.out.println("mabdealy est Mickaël Abdealy");
+		System.out.println("SharkyLeS est Etienne Raveau");
 	}
 	
 	public static void main(String[] args) {
